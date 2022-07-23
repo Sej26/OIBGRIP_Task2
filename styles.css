@@ -300,7 +300,7 @@ input[type="text"] {
 
 .feedback-input:focus { border:2px solid #CC4949; }
 
-textarea {
+.textarea-input {
   height: 150px;
   line-height: 150%;
   resize:vertical;
